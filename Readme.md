@@ -28,4 +28,4 @@ This script helps automate the installation of common software (browsers, messen
 1. Run Powershell as administrator
 2. Write:
     ```sh
-    irm https://raw.githubusercontent.com/N1zyx3/StartupWinScript/refs/heads/main/startupWinScript.ps1 | iex
+    irm https://raw.githubusercontent.com/N1zyx3/WinSetUtil/refs/heads/main/winSetUtil.ps1 | iex
